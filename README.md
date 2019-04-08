@@ -1,3 +1,5 @@
+run yarn and after that yarn start. open http://localhost:1234
+
 - Simple quiz bot.
 
 - uses OPEN TRIVIA API https://opentdb.com/api_config.php
